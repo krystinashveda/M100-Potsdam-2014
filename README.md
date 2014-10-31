@@ -1,7 +1,7 @@
 M100-Potsdam-2014
 =================
 
-I made this page for personal introduction to the other fellows, before we all met in Potsdam for M100 Young European Journalists programme 2014 (http://m100-data-community.m100potsdam.org/main/index)
+I made this page for personal introduction to the other fellows, before we all met in Potsdam for [M100 Young European Journalists programme 2014](http://m100-data-community.m100potsdam.org/main/index)
 
 The page has some graphics illustrating the demographics of our team.  
 The **intro page** can be found here: http://krystinashveda.com/M100-Potsdam-2014/
